@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+numpy
+PyQt5
+
+# Only needed for style_transfer.py
+torch
+torchvision
+Pillow
